@@ -1,16 +1,25 @@
-## Hi there 👋
+# Joel Egede
 
-<!--
-**Joel-Egede/joel-egede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on secure systems, data engineering, and machine learning.
 
-Here are some ideas to get you started:
+## Core Expertise
+- Python (automation, data processing, ML)
+- SQL (data modeling, secure querying)
+- Cybersecurity fundamentals
+- Machine learning for anomaly & fraud detection
+- Git & GitHub
+- Linux fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering Focus
+- Secure software development
+- Data-driven system design
+- Threat-aware backend logic
+- Clean, maintainable, documented code
+
+## Selected Work
+- Scam & fraud detection systems
+- Secure data analysis pipelines
+- Financial risk & anomaly detection models
+
+## Contact
+- LinkedIn: 
