@@ -1,37 +1,25 @@
-# 👋 Hi, I'm Joel Egede
+# 👋 Joel Egede  
+**Software Developer | Cybersecurity • Data Systems • Machine Learning**
+
+---
 
 ## About Me
-I am a software developer in training with a strong interest in cybersecurity, data systems, and machine learning. I focus on building a solid foundation in programming while developing practical problem-solving skills through hands-on projects.
-
-I enjoy understanding how systems work under the hood and applying that knowledge to build simple, efficient, and secure solutions.
+I am a software developer in training focused on building a strong foundation in programming and problem solving. I’m particularly interested in cybersecurity, data systems, and machine learning, and I enjoy creating practical solutions that are simple, efficient, and secure.
 
 ---
 
 ## What I'm Learning
-- Python programming and problem solving
-- Data analysis and structured data handling
-- Cybersecurity fundamentals
-- Web development (HTML, CSS, JavaScript)
-
----
-
-## Interests
-- Cybersecurity and secure system design
-- Fraud detection and machine learning
-- Backend development
-- Automation and data-driven solutions
+- Python programming and problem solving  
+- Data analysis and structured data handling  
+- Cybersecurity fundamentals  
+- Web development (HTML, CSS, JavaScript)  
 
 ---
 
 ## Projects
-- Scam Detection System (Machine Learning)
-- Secure Login System
-- Web development practice projects
-
----
-
-## Goal
-To grow into a skilled software engineer capable of building secure, intelligent, and impactful systems.
+- Scam Detection System (Machine Learning)  
+- Secure Login System  
+- Web Development Practice (WDD130)  
 
 ---
 
