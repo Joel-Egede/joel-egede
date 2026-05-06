@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I am a software developer in training focused on building a strong foundation in programming and problem solving. I’m particularly interested in cybersecurity, data systems, and machine learning, and I enjoy creating practical solutions that are simple, efficient, and secure.
+I am a developing software engineer focused on building a strong foundation in programming and problem solving. I’m particularly interested in cybersecurity, data systems, and machine learning, and I enjoy creating practical solutions that are simple, efficient, and secure.
 
 ---
 
@@ -16,12 +16,47 @@ I am a software developer in training focused on building a strong foundation in
 
 ---
 
-## Projects
-- Scam Detection System (Machine Learning)  
-- Secure Login System  
-- Web Development Practice (WDD130)  
+## ⚙️ Tech Stack
+- Python  
+- JavaScript  
+- HTML / CSS  
+- MySQL (learning)  
 
 ---
 
-## Contact
-Email: joelstar897@gmail.com
+## 🚀 Projects
+
+### 🔍 fraud Detection System (Machine Learning)
+A machine learning project focused on identifying fraudulent patterns in structured data.  
+- Built using Python  
+- Focused on data preprocessing and pattern recognition  
+- Goal: Detect suspicious transactions and improve decision-making accuracy  
+
+---
+
+### 🔐 Secure Login System
+A simple authentication system designed with security principles in mind.  
+- Built using JavaScript and backend logic  
+- Implements user validation and login protection  
+- Focused on understanding secure authentication flow  
+
+---
+
+### 🌐 Web Development Practice (WDD130)
+A collection of web development exercises and projects.  
+- Built using HTML and CSS  
+- Focused on layout, structure, and responsive design  
+- Strengthening frontend fundamentals  
+
+---
+
+## 📫 Contact
+Email: joelstar897@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-Egede&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Egede&layout=compact)
